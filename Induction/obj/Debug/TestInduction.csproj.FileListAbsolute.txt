@@ -1,0 +1,22 @@
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.csproj.AssemblyReference.cache
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.Form1.resources
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.Properties.Resources.resources
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.csproj.GenerateResource.cache
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.csproj.CoreCompileInputs.cache
+C:\Users\Matia\source\repos\TestInduction\bin\Debug\TestInduction.exe.config
+C:\Users\Matia\source\repos\TestInduction\bin\Debug\TestInduction.exe
+C:\Users\Matia\source\repos\TestInduction\bin\Debug\TestInduction.pdb
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.exe
+C:\Users\Matia\source\repos\TestInduction\obj\Debug\TestInduction.pdb
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\bin\Debug\TestInduction.exe.config
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\bin\Debug\TestInduction.exe
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\bin\Debug\TestInduction.pdb
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.Form1.resources
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.Properties.Resources.resources
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.exe
+C:\Users\matia\OneDrive\PERSONAL\TestInduction - Copy\obj\Debug\TestInduction.pdb
